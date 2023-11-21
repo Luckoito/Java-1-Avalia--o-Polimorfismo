@@ -1,6 +1,6 @@
-## Getting Started
+## Avaliação Final de POO em Java - 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O exercício tem como objetivo avaliar as habilidades e o entendimento em conceitos básicos de POO em java, como classes, métodos, modificadores de acesso, herança e polimorfismo.
 
 ## Folder Structure
 
